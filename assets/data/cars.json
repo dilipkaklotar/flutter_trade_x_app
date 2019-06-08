@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "id": 101,
+      "company": "Land Rover",
+      "model": "Range Rover Velar",
+      "price": "95,000",
+      "availability": "IN STOCK",
+      "location": "Canada, Ontario",
+      "image": "car1.png"
+    },
+    {
+      "id": 102,
+      "company": "Audi",
+      "model": "2017 Audi R8 Coupe",
+      "price": "234,000",
+      "availability": "INCOMMING",
+      "location": "Canada, Toronto",
+      "image": "car2.png"
+    },
+    {
+      "id": 103,
+      "company": "Tesla",
+      "model": "Tesla Model 3",
+      "price": "63,000",
+      "availability": "IN STOCK",
+      "location": "Canada, Toronto",
+      "image": "car3.png"
+    },
+    {
+      "id": 104,
+      "company": "Mercedes-Benz",
+      "model": "Mercedes-Benz GT",
+      "price": "137,000",
+      "availability": "IN STOCK",
+      "location": "Canada, Ontario",
+      "image": "car4.png"
+    }
+  ]
+}

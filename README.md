@@ -6,14 +6,19 @@ Car Trade X Flutter Application
 
 Source : https://dribbble.com/shots/6585577-Trade-X-App/attachments
 
+## Screenshots
+<table style={border:"none"}>
+<tr>
+  <td><img src="https://github.com/dilipkaklotar/flutter_trade_x_app/blob/master/screenshot/screen1.png" alt="Home Screen(default)"/></td>
+</tr>
+</table>
 
-This project is a starting point for a Flutter application.
+## Skills
+☞ Flutter<br />
+  ☞ TabBar with TabBarView <br />
+  ☞ GrideView <br />
+  ☞ BottomNavigationBar <br />
+☞ Dart<br />
+☞ Local JSON Parsing<br />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+This project is now complete on 7th June 2019.

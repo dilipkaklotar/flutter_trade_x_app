@@ -15,9 +15,9 @@ Source : https://dribbble.com/shots/6585577-Trade-X-App/attachments
 
 ## Skills
 ☞ Flutter<br />
-  ☞ TabBar with TabBarView <br />
-  ☞ GrideView <br />
-  ☞ BottomNavigationBar <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☞ TabBar with TabBarView <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☞ GrideView <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☞ BottomNavigationBar <br />
 ☞ Dart<br />
 ☞ Local JSON Parsing<br />
 
